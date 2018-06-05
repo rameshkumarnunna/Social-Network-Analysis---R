@@ -1,4 +1,4 @@
-# SocialNetworkAnalysis-R
+# SocialNetworkAnalysis-R shinyapp
 
 The network was generated using email data from a large European research institution. 
 
