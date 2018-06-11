@@ -6,7 +6,7 @@ Objectives :
 
 Perform the following tasks - 
 
-1. Title of app should be “FullName Social Network Analysis”
+1. App title - “FullName Social Network Analysis”
 2. User should be able to select and load the two relevant ﬁles for this assignment using the app: email-Eu-core-department-labels.txt, email-Eu-core.txt
 3. Using any package or function, display any n connections from the ﬁle, ”email-Eu-core.txt”; where n is some number input by the user.
 4. Programmatically compute the number of emails sent by each person; display this information in a tabular format.
@@ -18,4 +18,3 @@ CB(i) =X j6=k gjk(i) gjk , (1) where j and k are other nodes. Also, color code n
 9. Display/visualize 2-hop neighbors of nodes with the top 10 indegree centrality. Color code nodes according to the department.
 10. Aggregate the emails sent per person, to the department level. After aggregation, you should have a new table that indicates the number of emails sent and received between each and every department. The table should have three columns. Column A, indicates the department from which emails are originating, Column B, indicates the department to which the emails are being sent, and Column C indicates the total number of emails sent from A to B. Display the table, and visualize the directed connections.
 11. In a few sentences describe your observations when comparing the visualizations from 7, 8 and 9
-12. 5 points are allocated to creativity
